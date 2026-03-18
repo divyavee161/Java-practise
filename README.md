@@ -10,11 +10,11 @@ This repository showcases my work in Java programming, with a focus on building 
    java HelloWorld
    
 📌 Topics Covered
-  []hello.java
-  []operators
-  []decision statements
-  []looping statements
-  []methods
+   ✓hello.java
+   ✓operators
+   ✓decision statements
+   ✓looping statements
+   ✓methods
 
 📈 Progress
 This repository is continuously updated with new programs as I advance in Java and improve my problem-solving abilities.
