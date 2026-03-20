@@ -5,7 +5,7 @@
 4. switch statement */
  
 
-public class decision_statement {
+public class DecisionStatement {
     public static void main(String[] args) {
          int age = 24;
          int day = 2;
